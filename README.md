@@ -7,6 +7,7 @@ Realizing this fact encourages me to study these technologies more deeply and co
 🔭 I’m currently working on credit scoring prediction model in b2b.
 🤔 I’m looking for help with b2b credit scoring dataset.
 🌱 I’m currently learning CV, NLP
+👯 I’m looking to collaborate in the field of b2b financial analytics and building credit scoring models
 
 ---
 The technology stack being studied 🏂
@@ -34,8 +35,7 @@ The technology stack being studied 🏂
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
+- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
